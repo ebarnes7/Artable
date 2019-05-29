@@ -1,20 +1,19 @@
 //
-//  ViewController.swift
+//  LoginVC.swift
 //  Artable
 //
-//  Created by Eric Barnes on 5/24/19.
+//  Created by Eric Barnes on 5/26/19.
 //  Copyright © 2019 Eric Barnes. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class LoginVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
-
-
+    
 }
-
